@@ -21,6 +21,7 @@
   ],
   "main": "./cjs/index.cjs",
   "module": "./esm/index.mjs",
+  "type": "module",
   "types": "./lib/index.d.ts",
   "exports": {
     ".": {
